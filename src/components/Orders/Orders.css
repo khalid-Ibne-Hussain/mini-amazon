@@ -2,3 +2,15 @@
     margin: 50px auto;
 
 }
+
+.btn-checkout {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 56px;
+    align-items: center;
+    margin: 10px auto;
+    background-color: green;
+    border-radius: 5px;
+}
